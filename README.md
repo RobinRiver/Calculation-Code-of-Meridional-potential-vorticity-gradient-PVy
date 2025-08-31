@@ -3,7 +3,7 @@ The code of calculating the meridional gradient (PVy) of potential vorticity is 
 
 The non-dimensional form of the barotropic PVy is 
 PV_y=β-U_yy+FU,                     (1)
-where β=β_0 L ̃^2/U ̃  is the non-dimensional β parameter, U is the non-dimensional basic zonal wind，β_0 is the north-south gradient of the Coriolis parameter, F=(L ̃/R_d )^2 is the barotropic Froude number, R_d is the radius of Rossby deformation, L ̃~1000km and U ̃~10m/s are the characteristic horizontal length and velocity respectively.
+where β=β_0 L ̃^2/U ̃  is the non-dimensional β parameter, U is the non-dimensional basic zonal wind，β_0 is the north-south gradient of the Coriolis parameter, F=(L ̃/R_d )^2 is the barotropic Froude number, R_d is the radius of Rossby deformation, L ̃- 1000km and U ̃-10m/s are the characteristic horizontal length and velocity respectively.
 The non-dimensional form of the baroclinic PVy is 
 PV_y=β-(∂^2 U)/(∂y^2 )-(1⁄(ρ_0)∂⁄∂z[ρ_0 ((L ̃^2 f_0^2)/H ̃^2 ^2 )(∂U/(∂z)])),        (2)
 where β is the same as above, U=U(y,z) is the non-dimensional basic zonal wind, f_0 is the fixed Coriolis parameter, H ̃=10km is the characteristic vertical height, N^2 is the atmospheric stratification. When ρ_0=ρ_se^(-z) is applied (ρ_s is atmospheric density at the earth’s surface and z is the non-dimensional vertical coordinate), one can further simplify PV_y into
