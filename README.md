@@ -1,4 +1,4 @@
-The code of calculating the meridional gradient (PVy) of potential vorticity is given below.
+The code of calculating the meridional gradient (PVy) of potential vorticity is given above.
 
 In the nonlinear multi-scale interaction (NMI) model of atmospheric blocking, the meridional gradient (PVy) of the basic potential vorticity is a key factor characterizing the spatiotemporal behavior of atmospheric blocking. When PVy is smaller, the blocking system has weaker dispersion and stronger nonlinearity. In this case, atmospheric blocking has longer lifetime, stronger intensity, larger zonal scale and slower eastward movement. The reversed results are found for a larger PVy.
 
